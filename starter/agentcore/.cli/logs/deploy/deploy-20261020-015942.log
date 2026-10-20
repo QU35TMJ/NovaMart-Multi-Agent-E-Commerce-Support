@@ -1,0 +1,20 @@
+================================================================================
+AGENTCORE DEPLOY LOG
+Command: deploy
+Started: 2026-10-20T01:59:42.528Z
+================================================================================
+
+
+[01:59:42] STEP: Load deployment target
+[01:59:42] Status: SUCCESS
+[01:59:42] Duration: 140ms
+
+[01:59:42] STEP: Validate project
+[01:59:42] [ERROR] CDK project not found at /workspace/cd14764-aws-agentic-c3-classroom/project/starter/agentcore/cdk. Run 'agentcore create' first.
+[01:59:42] Status: FAILED
+[01:59:42] Duration: 1ms
+
+================================================================================
+FAILED
+Total Duration: 144ms
+================================================================================

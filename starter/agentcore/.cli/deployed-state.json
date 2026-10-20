@@ -1,0 +1,17 @@
+{
+  "targets": {
+    "default": {
+      "resources": {
+        "runtimes": {
+          "agentcore_runtime": {
+            "runtimeId": "udacity_agentcore_runtime-LK2JxXAO7S",
+            "runtimeArn": "arn:aws:bedrock-agentcore:us-east-1:008167025018:runtime/udacity_agentcore_runtime-LK2JxXAO7S",
+            "roleArn": "arn:aws:iam::008167025018:role/udacity-agentcore-agentcore-role"
+          }
+        },
+        "stackName": "AgentCore-udacity-default",
+        "deployHash": "6cf23fbb32a85fa9"
+      }
+    }
+  }
+}

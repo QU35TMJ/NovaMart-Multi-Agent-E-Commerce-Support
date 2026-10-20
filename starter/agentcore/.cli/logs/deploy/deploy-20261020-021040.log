@@ -1,0 +1,21 @@
+================================================================================
+AGENTCORE DEPLOY LOG
+Command: deploy
+Started: 2026-10-20T02:10:40.389Z
+================================================================================
+
+
+[02:10:40] STEP: Load deployment target
+[02:10:40] Status: SUCCESS
+[02:10:40] Duration: 3ms
+
+[02:10:40] STEP: Validate project
+[02:10:40] [ERROR] /workspace/cd14764-aws-agentic-c3-classroom/project/starter/agentcore/agentcore.json:
+  - version: expected "number"
+[02:10:40] Status: FAILED
+[02:10:40] Duration: 2ms
+
+================================================================================
+FAILED
+Total Duration: 7ms
+================================================================================
